@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    println("Selamat belajar Kotlin")
+    println("Hello, Ini Program Pertama Saya di Kotlin")
 }
