@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    //parrot Program
+    //Parrot Program
     println("Hi I'm Lora, the virtual parrot, and i love to repeat!")
     println("Type something in: ")
     var input: String
