@@ -5,4 +5,6 @@ fun main(args: Array<String>) {
     var varInt : Int = 1
     //if(varInt)
         println("varInt bernilai "+ varInt)
+
 }
+

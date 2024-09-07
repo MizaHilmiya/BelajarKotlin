@@ -16,5 +16,4 @@ fun main(args: Array<String>) {
     println("minLong:" + minLong)
     println("maxLong:" + maxLong)
 
-
 }
