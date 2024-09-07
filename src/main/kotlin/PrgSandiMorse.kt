@@ -10,8 +10,9 @@ fun main(args: Array<String>) {
 
     // array definitions
     val alphabetChars = "abcdefghijklmnopqrstuvwxyz"
-    val morseChars = arrayOf(".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-",
-        ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "-..")
+    val morseChars = arrayOf(".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---",
+        "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-",
+        ".--", "-..-", "-.--", "-..")
 
     //splitting the string into Morse characters
     val characters = s.split(" ")
