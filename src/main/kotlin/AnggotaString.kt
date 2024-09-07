@@ -6,7 +6,7 @@ fun main(args: Array<String>) {
     println(s.contains("lol"))
 
     //toUpperCase() and toLowerCase()
-    var config = "Fullscreen shaDow autosave"
+    var config = "Fullscreen shaDows autosave"
     config = config.toLowerCase()
     println("Will the game run in fullscreen?")
     println(config.contains("fullscreen"))
